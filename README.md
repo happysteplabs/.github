@@ -69,7 +69,7 @@ HappyStep Labs was created by **Luis Bobadilla**, a Senior Data Engineer passion
 Luis specializes in **AWS, Python, dbt, Airflow, and data architecture**.
 
 LinkedIn: https://www.linkedin.com/in/lbobadilla  
-Website: https://happystep.dev
+Website: https://happystep.github.io
 
 ---
 
@@ -77,7 +77,7 @@ Website: https://happystep.dev
 
 If you’re interested in partnering with HappyStep Labs for consulting, design, or implementation:
 
-📧 **happysteplabs@gmail.com**  
-🌐 **https://happystep.dev**
+📧 **luis.bobadilla.dias@gmail.com**  
+🌐 **https://happystep.github.io**
 
 ---
