@@ -43,12 +43,10 @@ This organization contains:
 
 ## 📦 Featured Projects
 
-> Replace these once repositories are added.
-
-- **`hsl-datacore`** — Reference architecture for HappyStep Labs data platforms  
-- **`hsl-dbt-template`** — Standardized dbt project structure with tests and conventions  
-- **`hsl-airflow-blueprints`** — Airflow DAG templates for ingestion, validation, and orchestration  
-- **`hsl-ingestion-contracts`** — JSON/YAML data contract patterns used across projects
+- **`hsl-datacore`** — Reference architecture for HappyStep Labs data platforms (private pre-release)
+- **`hsl-dbt-template`** — Standardized dbt project structure with tests and conventions (Q1 2026 roadmap)
+- **`hsl-airflow-blueprints`** — Airflow DAG templates for ingestion, validation, and orchestration (Q1 2026 roadmap)
+- **`hsl-ingestion-contracts`** — JSON/YAML data contract patterns used across projects (Q1 2026 roadmap)
 
 ---
 
