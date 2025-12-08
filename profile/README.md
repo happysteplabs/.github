@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/happysteplabs/.github/main/profile/banner.png" width="100%">
+<p align="center">
+  <img src="./banner.png" alt="HappyStep Labs Banner" width="100%">
+</p>
 
 # HappyStep Labs
 
