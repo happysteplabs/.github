@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/happysteplabs/.github/main/profile/banner.png" width="100%">
+
 # HappyStep Labs
 
 **Building reliable data platforms, one step at a time.**
