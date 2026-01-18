@@ -41,15 +41,6 @@ This organization contains:
 
 ---
 
-## 📦 Featured Projects
-
-- **`hsl-datacore`** — Reference architecture for HappyStep Labs data platforms (private pre-release)
-- **`hsl-dbt-template`** — Standardized dbt project structure with tests and conventions (Q1 2026 roadmap)
-- **`hsl-airflow-blueprints`** — Airflow DAG templates for ingestion, validation, and orchestration (Q1 2026 roadmap)
-- **`hsl-ingestion-contracts`** — JSON/YAML data contract patterns used across projects (Q1 2026 roadmap)
-
----
-
 ## 🌱 Philosophy
 
 We believe small teams can have **enterprise-grade data foundations** without enterprise-grade complexity.
@@ -67,7 +58,7 @@ Every repo in this org follows these principles.
 
 ## 👋 About the Founder
 
-HappyStep Labs was created by **Luis Bobadilla**, a Senior Data Engineer passionate about building clean, automated data foundations for small teams.  
+HappyStep Labs was created by **Luis Bobadilla**, a Data Platform Engineer passionate about building clean, automated data foundations for small teams.  
 Luis specializes in **AWS, Python, dbt, Airflow, and data architecture**.
 
 LinkedIn: https://www.linkedin.com/in/lbobadilla  
