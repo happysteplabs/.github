@@ -7,7 +7,7 @@
 **Building reliable data platforms, one step at a time.**
 
 HappyStep Labs is an independent data engineering studio specializing in modern data platforms built with **AWS, Python, dbt, and Airflow**.  
-We partner with startups and small teams to design and implement clean, automated, and future-proof data systems that scale with your business.
+I collaborate with startups and small teams to design and implement clean, automated, and future-proof data systems that scale with your business.
 
 ---
 
