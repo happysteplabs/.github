@@ -70,7 +70,7 @@ Website: https://happystep.github.io
 
 If you’re interested in partnering with HappyStep Labs for consulting, design, or implementation:
 
-📧 **luis.bobadilla.dias@gmail.com**  
+📧 **hello@happysteplabs.dev**  
 🌐 **https://happysteplabs.dev**
 
 ---
