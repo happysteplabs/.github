@@ -61,7 +61,7 @@ Every repo in this org follows these principles.
 HappyStep Labs was created by **Luis Bobadilla**, a Data Platform Engineer passionate about building clean, automated data foundations for small teams.  
 Luis specializes in **AWS, Python, dbt, Airflow, and data architecture**.
 
-LinkedIn: https://www.linkedin.com/in/lbobadilla  
+LinkedIn: https://www.linkedin.com/in/luis-bobadilla-dias
 Website: https://happystep.github.io
 
 ---
