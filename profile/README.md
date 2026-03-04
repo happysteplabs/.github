@@ -4,74 +4,85 @@
 
 # HappyStep Labs
 
-**Building reliable data platforms, one step at a time.**
+**Building modern software systems — from data platforms to web and mobile applications.**
 
-HappyStep Labs is an independent data engineering studio specializing in modern data platforms built with **AWS, Python, dbt, and Airflow**.  
-I collaborate with startups and small teams to design and implement clean, automated, and future-proof data systems that scale with your business.
+HappyStep Labs is a small independent **software engineering lab** focused on building reliable systems across **data platforms, backend services, cloud infrastructure, and modern applications**.
 
----
-
-## 🚀 What We Do
-
-**🔹 Modern Data Architecture**  
-Design and build cloud-native data platforms using AWS (S3, Glue, Athena, Lake Formation, Lambda, Step Functions).
-
-**🔹 Data Engineering & Automation**  
-Orchestration and pipelines built with Python and Airflow, following best practices for reliability and observability.
-
-**🔹 dbt Modeling & Best Practices**  
-Clean, documented, testable transformation layers for analytics teams.
-
-**🔹 Ingestion Frameworks & Templates**  
-Reusable ingestion patterns, contracts, and automation blueprints.
-
-**🔹 Consulting for Small Teams**  
-Hands-on help setting up your first modern data platform or improving an existing one.
+We collaborate with startups and early-stage teams to design clean, scalable technical foundations — from **product backends and web apps to analytics infrastructure and data platforms**.
 
 ---
 
-## 🧰 Our Repositories
+# 🚀 What We Do
+
+### 🔹 Software Systems & Product Foundations
+Design and build scalable backend systems and product infrastructure using **Python and TypeScript**.
+
+### 🔹 Data Platforms & Analytics Infrastructure
+Modern cloud-native data platforms built with **AWS, Python, dbt, and Airflow**.
+
+### 🔹 Web Applications
+Modern web products built with **TypeScript, Next.js, and Tailwind**.
+
+### 🔹 Mobile Applications
+Cross-platform mobile development using **Flutter**.
+
+### 🔹 Cloud Infrastructure & Automation
+Infrastructure-as-Code, CI/CD pipelines, and cloud-native architecture using **AWS, Terraform, and CDK**.
+
+---
+
+# 🧰 Our Repositories
 
 This organization contains:
 
-- **Production-ready templates** for ingestion, lakehouse setups, and dbt projects  
-- **Reusable Python packages** for data workflows  
-- **Internal tools** used across HappyStep Labs projects  
-- **Case studies & portfolio examples** (when permitted)
+• Data platform templates and lakehouse architectures  
+• Backend service frameworks and API foundations  
+• Web and product engineering projects  
+• Infrastructure templates and DevOps tooling  
+• Internal tools and reusable libraries  
+
+Some repositories may also include **case studies and portfolio examples** when permitted.
 
 ---
 
-## 🌱 Philosophy
+# 🌱 Philosophy
 
-We believe small teams can have **enterprise-grade data foundations** without enterprise-grade complexity.
+We believe small teams can have **strong technical foundations without unnecessary complexity**.
 
-Our work focuses on:
+Our work emphasizes:
 
-- **Clarity:** Readable, predictable, well-documented code  
-- **Reliability:** Automated pipelines with monitoring and tests  
-- **Simplicity:** Fewer moving parts, more value  
-- **Scalability:** Build what you need today with a runway for tomorrow  
+**Clarity**  
+Readable, predictable, well-documented systems.
 
-Every repo in this org follows these principles.
+**Reliability**  
+Automation, testing, and monitoring from the start.
 
----
+**Simplicity**  
+Choose pragmatic architectures over unnecessary complexity.
 
-## 👋 About the Founder
-
-HappyStep Labs was created by **Luis Bobadilla**, a Data Platform Engineer passionate about building clean, automated data foundations for small teams.  
-Luis specializes in **AWS, Python, dbt, Airflow, and data architecture**.
-
-
-🌐 **www.linkedin.com/in/luis-bobadilla-dias**  
-🌐 **https://happystep.github.io**
+**Scalability**  
+Build systems that evolve from **MVP to production scale**.
 
 ---
 
-## 🤝 Work With Us
+# 👋 About the Lab
 
-If you’re interested in partnering with HappyStep Labs for consulting, design, or implementation:
+HappyStep Labs was founded by **Luis Bobadilla Dias**, a Software Engineer specializing in **data platforms, cloud systems, and modern application architecture**.
 
-📧 **hello@happysteplabs.dev**  
-🌐 **https://happysteplabs.dev**
+Luis works across the engineering stack — from data infrastructure and backend services to modern web and product systems.
+
+HappyStep Labs also collaborates on brand, communications, and product storytelling with **Liz Lezcano**.
+
+🌐 https://www.linkedin.com/in/luis-bobadilla-dias  
+🌐 https://luisbobadilladias.github.io  
+
+---
+
+# 🤝 Work With HappyStep Labs
+
+If you're building a product and need help with **data platforms, backend systems, cloud infrastructure, or application foundations**, HappyStep Labs can help.
+
+📧 hello@happysteplabs.dev  
+🌐 https://happysteplabs.dev
 
 ---
