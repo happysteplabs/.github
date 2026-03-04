@@ -69,10 +69,6 @@ Build systems that evolve from **MVP to production scale**.
 
 HappyStep Labs was founded by **Luis Bobadilla Dias**, a Software Engineer specializing in **data platforms, cloud systems, and modern application architecture**.
 
-Luis works across the engineering stack — from data infrastructure and backend services to modern web and product systems.
-
-HappyStep Labs also collaborates on brand, communications, and product storytelling with **Liz Lezcano**.
-
 🌐 https://www.linkedin.com/in/luis-bobadilla-dias  
 🌐 https://luisbobadilladias.github.io  
 
@@ -82,7 +78,6 @@ HappyStep Labs also collaborates on brand, communications, and product storytell
 
 If you're building a product and need help with **data platforms, backend systems, cloud infrastructure, or application foundations**, HappyStep Labs can help.
 
-📧 hello@happysteplabs.dev  
-🌐 https://happysteplabs.dev
+📧 luis.bobadilla.dias@gmail.com
 
 ---
